@@ -1,4 +1,4 @@
-# 🏢⚽ Building Height Calculator
+# 🏢⚽ Speed and Fall Time Ball calculator
 
 Uma aplicação desenvolvida em **Java utilizando Swing**, capaz de calcular o **tempo de queda** e a **velocidade final** de uma bolinha lançada do topo de um prédio, desconsiderando a resistência do ar. Além dos cálculos físicos, o programa apresenta uma **simulação gráfica da queda e dos rebotes da bola**.
 

@@ -127,4 +127,4 @@ Este projeto tem como objetivo demonstrar, de forma simples e visual, a aplicaç
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Pedro Alexandre, Andrew Mickael e Anthony Sotti** como projeto acadêmico para estudo de Física, Java Swing e Programação Orientada a Objetos.
+Desenvolvido por **Pedro Alexandre, Andrew Mikael e Antony Sotti** como projeto acadêmico para estudo de Física, Java Swing e Programação Orientada a Objetos.

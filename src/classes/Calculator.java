@@ -34,6 +34,7 @@ public class Calculator {
 
 	}
 	// metodo para calcular a velocidade da bola
+	// v = t*g
 	public double CalculateBallSpeed() {
 		totalTime = Math.sqrt(2*buildingHeight/gravity);
 		ballSpeed = totalTime*gravity;

@@ -91,8 +91,7 @@ classes/
 
 1. Clone este repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
+git clone https://github.com/PedroAlexandre025/CalculadoraVelocidadeTempo.git
 2. Abra o projeto em uma IDE Java, como:
 
 * Eclipse;

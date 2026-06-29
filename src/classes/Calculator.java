@@ -22,7 +22,12 @@ public class Calculator {
 		return ballSpeed;
 	}
 
-	// metodo para calcular o tempo da queda
+	// metodo para calcular o tempo da queda s = s0 +v0*T + 1/2 at^2
+	//s = 0 + 0*t +1/2 at^2
+	//s = gt^2/2
+	//2s = gt^2
+	//t^2 = 2d/g => t = sqrt(2d/g)
+	
 	public double CalculateTotalTime() {
 		totalTime = Math.sqrt(2*buildingHeight/gravity);
 		return totalTime;
